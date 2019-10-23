@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am pawel656 on github.
+  * I am pawel656 (https://keybase.io/pawel656) on keybase.
+  * I have a public key ASB-w4ad0dJ-YkSyYDpGxnN92ALqquwfNAMBWteGA1pxmQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207ec3869dd1d27e6244b2603a46c6737dd802eaaaec1f3403015ad786035a71990a",
+      "host": "keybase.io",
+      "kid": "01207ec3869dd1d27e6244b2603a46c6737dd802eaaaec1f3403015ad786035a71990a",
+      "uid": "f498e77a0223f6e2682e56e399283d19",
+      "username": "pawel656"
+    },
+    "merkle_root": {
+      "ctime": 1571840942,
+      "hash": "3ef892e03ad08a95e5ed5d149a24ff78d9fd3630747825d68bd727ecdff83df9749f2f19d495a116b92755db0e5f057f2dc24dd97c5f13e5426b9b3cf4fbed10",
+      "hash_meta": "a79b5d928147631b80e5fcab710c51baf0f21f61eff3d403c947f4eb2ea087ef",
+      "seqno": 8340397
+    },
+    "service": {
+      "entropy": "eB2skbYE+GlnqOz7sxoNbIew",
+      "name": "github",
+      "username": "pawel656"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.0"
+  },
+  "ctime": 1571840961,
+  "expire_in": 504576000,
+  "prev": "fb9b6a79af5ae18b350e3982cdae0e1923792e4a3b61a4c833a9054d4663d858",
+  "seqno": 27,
+  "tag": "signature"
+}
+```
+
+with the key [ASB-w4ad0dJ-YkSyYDpGxnN92ALqquwfNAMBWteGA1pxmQo](https://keybase.io/pawel656), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfsOGndHSfmJEsmA6RsZzfdgC6qrsHzQDAVrXhgNacZkKp3BheWxvYWTESpcCG8Qg+5tqea9a4Ys1DjmCza4OGSN5Lko7YaTIM6kFTUZj2FjEIOFMaUeNdQH6cXAKhrw2eEcNThnXB7Iu6U38YBueDF6xAgHCo3NpZ8RAwVOTBZrMwZ0q8bYT3u2koCVVdvDMWDaHP3Ze6YAyjks89MFCCpJDHJvC2bHoKgKdlCXDuFJbxX1I26XxVY3WAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILYlq2FbmBl80dFcvHPsIivMxHQ/pEtSv98HVL7O28/zo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/pawel656
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id pawel656
+```
